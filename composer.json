@@ -20,16 +20,7 @@
         "zizaco/entrust": "1.7.0",
         "spatie/laravel-backup": "^3.0.0"
     },
-    "authors": [
-        {
-            "name": "Ganesh Bhosale",
-            "email": "ganesh@dwij.in"
-        },
-        {
-            "name": "Luis moreno",
-            "email": "l7wahn@gmail.com"
-        }
-    ],
+    "authors": [],
     "classmap": [
         "src/Controllers",
         "src/Models"
